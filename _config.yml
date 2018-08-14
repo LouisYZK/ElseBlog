@@ -1,5 +1,5 @@
 # Site settings
-title: You are my sunshine
+title: Louis Young
 SEOTitle: 智凯的博客 | Blog
 header-img: img/home-bg.jpg
 email: yangzhikai@cug.edu.cn
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: LouisYoung
 
 # Gitalk
 gitalk:
