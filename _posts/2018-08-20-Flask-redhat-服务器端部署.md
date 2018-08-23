@@ -41,3 +41,6 @@ alias python3=/home/anaconda3/bin/python #python3启动anaconda python3.6
 此外，合理创建python的虚拟环境很重要。
 
 通过这次的采坑，我对rpm系列的linux发行版本有了部署经验，（真的没有debian系列的好用啊！！）
+
+4200601812
+
