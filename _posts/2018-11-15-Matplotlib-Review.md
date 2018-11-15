@@ -11,6 +11,7 @@ tags:
 ---
 
 # Visualization With Matplotlib
+## 前言
 本文特点：
 - 无基础内容，重应用与展示
 - 代码为主
@@ -28,7 +29,7 @@ tags:
 - PyEcharts(Echarts 的Python接口，国产良心)
 ...
 
-工具没有最好的，只有最适合的，而Matplotlib不论怎样，都是入门学习的不二之选;因为他是仅剩不多的还保持这OO（Object-Oriented）编程风格的可视化库了。
+工具没有最好的，只有最适合的，而Matplotlib不论怎样，都是入门学习的不二之选;因为他是仅剩不多的还保持着**OO（Object-Oriented）**编程风格的可视化库了。
 
 
 ```python
@@ -61,7 +62,7 @@ plt.show()
 ```
 
 
-![png](img/output_5_0.png)
+![](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vflp3gfj20a106vdhc.jpg)
 
 
 
@@ -74,7 +75,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfwf4q8j209i06vaa4.jpg)
 
 
 ## Histgrams, Binnings and Density
@@ -97,7 +98,7 @@ plt.show()
     
 
 
-![png](output_8_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfwpvgqj20a606umx1.jpg)
 
 
 
@@ -133,7 +134,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfwx2g0j209f06vq2u.jpg)
 
 
 
@@ -147,7 +148,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfx3fpkj20a5075wey.jpg)
 
 
 
@@ -172,7 +173,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfx8q9cj20a006vweh.jpg)
 
 
 ## Cutomizing Legends
@@ -192,7 +193,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfxez8kj20a406sglm.jpg)
 
 
 
@@ -205,7 +206,7 @@ fig
 
 
 
-![png](output_16_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfxjks8j20a406sglm.jpg)
 
 
 
@@ -220,7 +221,7 @@ fig
 
 
 
-![png](output_17_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfxq6e6j20a706tmx7.jpg)
 
 
 
@@ -246,7 +247,7 @@ plt.show()
     
 
 
-![png](output_18_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfxvw6qj20e40au74s.jpg)
 
 
 ## Customizing Colorbars
@@ -264,7 +265,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfybhbuj20ee0btjt4.jpg)
 
 
 **在这里插一句题外话，突然发现了不得了的东西：(1000,)× (1000,1) -->(1000,1000) .....**
@@ -279,7 +280,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfyhfmgj20ee0btglv.jpg)
 
 
 ## ColorBar Applyinng Example: Digital Numbers
@@ -297,7 +298,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfz56zzj20as0b2jt4.jpg)
 
 
 
@@ -313,7 +314,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfzasuej20eq0btwg9.jpg)
 
 
 ## Multiple subplots
@@ -330,7 +331,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfzroq4j20f80btdfz.jpg)
 
 
 ## Cutomizing Ticks 
@@ -352,7 +353,7 @@ fig
 
 
 
-![png](output_30_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfzuxbqj20f80btjrm.jpg)
 
 
 
@@ -365,7 +366,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg05w90j20ex0bmdfv.jpg)
 
 
 
@@ -405,7 +406,7 @@ plt.show()
 ```
 
 
-![png](output_32_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg0cqqlj20ez0bqaaj.jpg)
 
 
 ## Three-Dimentional Plotting in Matplotlib
@@ -419,7 +420,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg0hmx0j20e70a8dgd.jpg)
 
 
 
@@ -440,7 +441,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg0pgnqj20e70a8wfn.jpg)
 
 
 
@@ -461,7 +462,7 @@ plt.show()
 ```
 
 
-![png](output_36_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg1bikzj20e70b4tcx.jpg)
 
 
 
@@ -474,7 +475,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg244jkj20e70b442g.jpg)
 
 
 
@@ -487,7 +488,7 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg2bxhoj20e70b40ux.jpg)
 
 
 ## Geographic Data With Basemap
@@ -507,7 +508,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg2op0fj20fc0btgnk.jpg)
 
 
 
@@ -521,7 +522,7 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg2vayvj20f40au0up.jpg)
 
 
 
@@ -542,7 +543,7 @@ plt.show()
     
 
 
-![png](output_43_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg30hj5j20f70audfu.jpg)
 
 
 
@@ -561,7 +562,7 @@ plt.show()
     
 
 
-![png](output_44_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg356ppj20f70aumxj.jpg)
 
 
 
@@ -581,7 +582,7 @@ plt.show()
     
 
 
-![png](output_45_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg3c8yej20f70bcjru.jpg)
 
 
 
@@ -598,7 +599,7 @@ plt.show()
     
 
 
-![png](output_46_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg3ift1j20es0apab4.jpg)
 
 
 
@@ -614,7 +615,7 @@ plt.show()
     
 
 
-![png](output_47_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vg3mec3j20cw0czaa9.jpg)
 
 
 
@@ -633,7 +634,7 @@ plt.show()
     
 
 
-![png](output_48_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vftv8olj20cw0cz3zd.jpg)
 
 
 
@@ -730,7 +731,7 @@ plt.show()
 ```
 
 
-![png](output_50_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfu3vb5j20nh0lvace.jpg)
 
 
 
@@ -836,11 +837,8 @@ plt.show()
 ```
 
 
-![png](output_52_0.png)
 
-
-
-![png](output_52_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfv6be8j20d90cz3yo.jpg)
 
 
 
@@ -853,7 +851,7 @@ plt.show()
 ```
 
 
-![png](output_53_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfvlgy4j20ai08j749.jpg)
 
 
 
@@ -872,7 +870,7 @@ plt.show()
     
 
 
-![png](output_54_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfvtnwzj20cw0czwf5.jpg)
 
 
 
@@ -973,7 +971,7 @@ plt.show()
 ```
 
 
-![png](output_56_0.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfvxk08j214x08j0t7.jpg)
 
 
 
@@ -990,7 +988,7 @@ plt.show()
     
 
 
-![png](output_57_1.png)
+![png](https://ws1.sinaimg.cn/large/6af92b9fgy1fx8vfwafsqj20lv0ar74z.jpg)
 
 
 ## 结语
