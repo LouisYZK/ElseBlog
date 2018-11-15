@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Matplotlib Review
-subtitle:   坚持OO风格的情怀
+subtitle:   向坚持OO风格的情怀致敬
 date:       2018-11-05
 author:     Louis Younng
 header-img: img/post-bg-universe.jpg
@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Python
 ---
+![](https://ws1.sinaimg.cn/large/6af92b9fly1fx8yzt7gagj20er048q3d.jpg)
 
 # Visualization With Matplotlib
 ## 前言
