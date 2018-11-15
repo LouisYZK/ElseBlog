@@ -3,7 +3,7 @@ layout:     post
 title:      Matplotlib Review
 subtitle:   向坚持OO风格的情怀致敬
 date:       2018-11-05
-author:     Louis Younng
+author:     杨智凯 (Yang Chih-kai) 
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
